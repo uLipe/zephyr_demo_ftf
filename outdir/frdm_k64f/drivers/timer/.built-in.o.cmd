@@ -1,0 +1,1 @@
+cmd_drivers/timer/built-in.o :=  /Users/user/Documents/devel/tools/arm-gcc/bin/arm-none-eabi-ld -nostartfiles -nodefaultlibs -nostdlib -static   -r -o drivers/timer/built-in.o drivers/timer/cortex_m_systick.o drivers/timer/sys_clock_init.o 

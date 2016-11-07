@@ -1,0 +1,1 @@
+cmd_ext/hal/ksdk/drivers/built-in.o :=  /Users/user/Documents/devel/tools/arm-gcc/bin/arm-none-eabi-ld -nostartfiles -nodefaultlibs -nostdlib -static   -r -o ext/hal/ksdk/drivers/built-in.o ext/hal/ksdk/drivers/fsl_i2c.o ext/hal/ksdk/drivers/fsl_rnga.o 

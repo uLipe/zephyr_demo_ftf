@@ -1,0 +1,1 @@
+cmd_drivers/serial/built-in.o :=  /Users/user/Documents/devel/tools/arm-gcc/bin/arm-none-eabi-ld -nostartfiles -nodefaultlibs -nostdlib -static   -r -o drivers/serial/built-in.o drivers/serial/uart_k20.o 

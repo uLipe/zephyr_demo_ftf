@@ -1,0 +1,1 @@
+cmd_misc/built-in.o :=  /Users/user/Documents/devel/tools/arm-gcc/bin/arm-none-eabi-ld -nostartfiles -nodefaultlibs -nostdlib -static   -r -o misc/built-in.o misc/printk.o misc/generated/built-in.o misc/debug/built-in.o 

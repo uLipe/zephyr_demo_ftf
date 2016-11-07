@@ -1,0 +1,1 @@
+cmd_kernel/unified/built-in.o :=  /Users/user/Documents/devel/tools/arm-gcc/bin/arm-none-eabi-ld -nostartfiles -nodefaultlibs -nostdlib -static   -r -o kernel/unified/built-in.o kernel/unified/version.o 

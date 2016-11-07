@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+environment/project/0.931392321/GCCARMEMB_TOOLCHAIN_PATH/delimiter=\:
+environment/project/0.931392321/GCCARMEMB_TOOLCHAIN_PATH/operation=replace
+environment/project/0.931392321/GCCARMEMB_TOOLCHAIN_PATH/value=/Users/user/Documents/devel/tools/arm-gcc
+environment/project/0.931392321/ZEPHYR_BASE/delimiter=\:
+environment/project/0.931392321/ZEPHYR_BASE/operation=replace
+environment/project/0.931392321/ZEPHYR_BASE/value=/Users/user/Documents/devel/zephyr-project
+environment/project/0.931392321/ZEPHYR_GCC_VARIANT/delimiter=\:
+environment/project/0.931392321/ZEPHYR_GCC_VARIANT/operation=replace
+environment/project/0.931392321/ZEPHYR_GCC_VARIANT/value=GCCARMEMB
+environment/project/0.931392321/append=true
+environment/project/0.931392321/appendContributed=true

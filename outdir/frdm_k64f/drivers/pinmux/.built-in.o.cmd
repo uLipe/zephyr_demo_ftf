@@ -1,0 +1,1 @@
+cmd_drivers/pinmux/built-in.o :=  /Users/user/Documents/devel/tools/arm-gcc/bin/arm-none-eabi-ld -nostartfiles -nodefaultlibs -nostdlib -static   -r -o drivers/pinmux/built-in.o drivers/pinmux/k64/pinmux.o drivers/pinmux/k64/pinmux_board_frdm_k64f.o 

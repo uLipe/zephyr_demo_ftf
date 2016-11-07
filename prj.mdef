@@ -1,0 +1,7 @@
+% Application       : Hello demo
+
+% TASK NAME  PRIO ENTRY 				STACK 	GROUPS
+% =====================================================
+  TASK TASKA    8  main  				2048 	[EXE]
+  TASK ACC      8  acc_thread			1024	[EXE]
+  TASK LED      9  led_thread			1024	[EXE]

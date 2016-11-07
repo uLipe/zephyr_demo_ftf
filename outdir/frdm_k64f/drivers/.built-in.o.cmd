@@ -1,0 +1,1 @@
+cmd_drivers/built-in.o :=  /Users/user/Documents/devel/tools/arm-gcc/bin/arm-none-eabi-ld -nostartfiles -nodefaultlibs -nostdlib -static   -r -o drivers/built-in.o drivers/console/built-in.o drivers/random/built-in.o drivers/serial/built-in.o drivers/timer/built-in.o drivers/interrupt_controller/built-in.o drivers/gpio/built-in.o drivers/i2c/built-in.o drivers/pinmux/built-in.o 

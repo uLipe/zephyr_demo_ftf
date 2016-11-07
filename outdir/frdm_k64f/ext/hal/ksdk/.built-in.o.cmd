@@ -1,0 +1,1 @@
+cmd_ext/hal/ksdk/built-in.o :=  /Users/user/Documents/devel/tools/arm-gcc/bin/arm-none-eabi-ld -nostartfiles -nodefaultlibs -nostdlib -static   -r -o ext/hal/ksdk/built-in.o ext/hal/ksdk/devices/MK64F12/fsl_clock.o ext/hal/ksdk/components/built-in.o ext/hal/ksdk/drivers/built-in.o 

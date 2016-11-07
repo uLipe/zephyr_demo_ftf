@@ -1,0 +1,1 @@
+cmd_arch/arm/built-in.o :=  /Users/user/Documents/devel/tools/arm-gcc/bin/arm-none-eabi-ld -nostartfiles -nodefaultlibs -nostdlib -static   -r -o arch/arm/built-in.o arch/arm/soc/nxp_kinetis/built-in.o arch/arm/core/built-in.o 

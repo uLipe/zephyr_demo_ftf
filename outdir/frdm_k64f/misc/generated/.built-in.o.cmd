@@ -1,0 +1,1 @@
+cmd_misc/generated/built-in.o :=  /Users/user/Documents/devel/tools/arm-gcc/bin/arm-none-eabi-ld -nostartfiles -nodefaultlibs -nostdlib -static   -r -o misc/generated/built-in.o misc/generated/configs.o misc/generated/sysgen/built-in.o 
